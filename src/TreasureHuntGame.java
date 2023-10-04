@@ -1,3 +1,6 @@
+// this is a game in which i used chat gpt to give me a rough framework -->
+// the other text based game is where i expanded on all of this stuff and used other concepts to make it better.
+
 import java.util.Scanner;
 import java.util.Random;
 
